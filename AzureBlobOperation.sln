@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureBlobOperation", "AzureBlobOperation\AzureBlobOperation.csproj", "{177C6947-A2BB-4EEF-A847-74F3404E0114}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureBlobOperationTest", "AzureBlobOperationTest\AzureBlobOperationTest.csproj", "{23206C8C-EA27-4591-9F2F-4DE7599C7432}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{177C6947-A2BB-4EEF-A847-74F3404E0114}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{177C6947-A2BB-4EEF-A847-74F3404E0114}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{177C6947-A2BB-4EEF-A847-74F3404E0114}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{177C6947-A2BB-4EEF-A847-74F3404E0114}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23206C8C-EA27-4591-9F2F-4DE7599C7432}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23206C8C-EA27-4591-9F2F-4DE7599C7432}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23206C8C-EA27-4591-9F2F-4DE7599C7432}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23206C8C-EA27-4591-9F2F-4DE7599C7432}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15A4E906-E80D-4BA5-80D2-F08B7294CF00}
+	EndGlobalSection
+EndGlobal
